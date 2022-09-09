@@ -1,0 +1,12 @@
+package entities;
+
+public class Produto {
+	
+	private Long id;
+	private String name;
+	private double price;
+	private String description;
+	private String imageUri;
+	
+	
+}
